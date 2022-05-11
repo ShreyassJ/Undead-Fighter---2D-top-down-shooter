@@ -7,6 +7,7 @@ The keys W, A, S, and D are used to move and the left click to shoot
 
 The game also includes a changing leadeboard that gets updated on death.
 
+Note: This project was worked on by me and 2 other classmates.
 
 **How to run:**
 
